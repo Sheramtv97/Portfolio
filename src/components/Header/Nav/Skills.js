@@ -1,11 +1,12 @@
 import React from 'react';
+import Skil from "../../Section/Skil";
 
-const Scils = () => {
+const Skills = () => {
     return (
         <div>
-
+            <Skil/>
         </div>
     );
 };
 
-export default Scils;
+export default Skills;

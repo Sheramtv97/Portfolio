@@ -1,7 +1,6 @@
 import React from 'react';
 
-const About = () => {
-
+const Aboutme = () => {
 
     return (
         <section id='about'>
@@ -10,14 +9,14 @@ const About = () => {
 
                     <div className='about--general__title'>
                        <h1>AboutMe <span>( )</span> </h1>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer velit turpis, finibus eu condimentum ut, posuere at ipsum. Maecenas vel consequat mauris. Quisque sodales ipsum aliquet aliquam placerat. Proin varius condimentum sapien. Mauris quis elit nibh. Morbi ut facilisis nisl. Duis et leo ut odio rhoncus porta a a dui. Nullam arcu nibh, bibendum in enim sed, ullamcorper feugiat nunc.
-                        </p>
+                        <p>Hello everyone, my name is Sherali Mamatov, I am 24 years old, I am a beginner website developer. I want to study even more
+                            my character is calm cheerful i like to take responsibility hard work</p>
                     </div>
 
                     <div className='about--general__block'>
                         <div className='about--general__block--top'>
                             <div className='about--general__block--top__left'>
-                                <h4>Fullstack Developer</h4>
+                                <h4>Software Developer</h4>
                                 <a href={'/projects'}>Projects</a>
                             </div>
                            <p>{`</>`}</p>
@@ -26,7 +25,7 @@ const About = () => {
                         <div className='about--general__block--top'>
                             <div className='about--general__block--top__left'>
                                 <h4>Freelancer</h4>
-                                <a href="https://freelancer.kg/dashboard">Hire me!</a>
+                                <a href="https://workspace.ru/personal/info/personal/">Hire me!</a>
 
                             </div>
                             <h6>{`{ }`}</h6>
@@ -39,4 +38,4 @@ const About = () => {
     );
 };
 
-export default About;
+export default Aboutme;
