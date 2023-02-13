@@ -9,7 +9,7 @@ const Aboutme = () => {
 
                     <div className='about--general__title'>
                        <h1>AboutMe <span>( )</span> </h1>
-                        <p>Hello everyone, my name is Sherali Mamatov, I am 24 years old, I am a beginner website developer. I want to study even more
+                        <p>Hello everyone, my name is Sherali Mamatov, I am 25 years old, I am a beginner website developer. I want to study even more
                             my character is calm cheerful i like to take responsibility hard work</p>
                     </div>
 

@@ -12,7 +12,7 @@ const Hero = () => {
             <div className="container">
                 <div className="hero--general">
                     <div className='hero--general__block'>
-                        <p>Hello, i am</p>
+                        <p>Hello, I am</p>
                         <h1> {`<Mamatov SHerali />`}</h1>
                         <h2>Software Developer</h2>
                         <div className='hero--general__block--tit'>
